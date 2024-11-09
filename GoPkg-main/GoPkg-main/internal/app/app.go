@@ -3,7 +3,7 @@ package app
 import (
 	"fmt"
 
-	"github.com/VoGPro/GoPkg/pkg/mutex"
+	"github.com/GlebSvetikov/GoLang/pkg/mutex"
 )
 
 func RunApp() {
