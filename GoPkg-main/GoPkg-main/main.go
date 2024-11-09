@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/VoGPro/GoPkg/internal/app"
+	"github.com/GlebSvetikov/GoLang/internal/app"
 )
 
 func main() {
